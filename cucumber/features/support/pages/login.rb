@@ -1,0 +1,3 @@
+class Login < Page
+
+end
